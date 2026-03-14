@@ -121,7 +121,7 @@ curl -X POST "http://127.0.0.1:8000/measure" \
 ### Option 4 — Live Deployed Demo
 Test the API without installing anything:
 ```
-[YOUR DEPLOYED URL HERE]
+https://haze-body-api.onrender.com/
 ```
 
 ---

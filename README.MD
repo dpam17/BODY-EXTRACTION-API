@@ -45,7 +45,7 @@ haze-body-api/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/dpam17/HAZE-BODY-API.git
+git clone https://github.com/dpam17/body-extraction-api.git
 cd haze-body-api
 ```
 
